@@ -3,7 +3,7 @@
  * Plugin Name: WP Rocket Mobile Cache Preloader
  * Description: Crawls sitemap URLs with a mobile user-agent to trigger mobile cache creation. Runs up to three times daily at admin-defined times via WP-Cron or system cron.
  * Version: 2.0
- * Author: ICSD
+ * Author: Brenup
  * Requires at least: 6.0
  * Requires PHP: 8.0
  */
